@@ -1,0 +1,11 @@
+﻿  Main.cpp
+C:\Users\Prem Sai\source\repos\SDL\Supernova Simulator\Main.cpp(14,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Prem Sai\source\repos\SDL\Supernova Simulator\Main.cpp(40,16): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Prem Sai\source\repos\SDL\Supernova Simulator\Main.cpp(43,11): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Prem Sai\source\repos\SDL\Supernova Simulator\Main.cpp(44,13): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Prem Sai\source\repos\SDL\Supernova Simulator\Main.cpp(45,12): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Prem Sai\source\repos\SDL\Supernova Simulator\Main.cpp(53,10): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  Swarm.cpp
+  Generating Code...
+C:\Users\Prem Sai\source\repos\SDL\Supernova Simulator\Main.cpp(54,10): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  Supernova Simulator.vcxproj -> C:\Users\Prem Sai\source\repos\SDL\Supernova Simulator\Debug\Supernova Simulator.exe
